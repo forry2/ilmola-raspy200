@@ -2,7 +2,19 @@
     "name": "ilmola",
     "description": "Node RED a casa di Marco Mola",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-contrib-interval-length": "0.0.3",
+        "node-red-contrib-sensor-ds18b20": "0.1.0",
+        "node-red-contrib-simple-message-queue": "0.2.2",
+        "node-red-dashboard": "2.9.6",
+        "node-red-contrib-s7": "1.6.0",
+        "node-red-contrib-simpletime": "2.7.0",
+        "node-red-node-pi-gpio": "1.0.6",
+        "node-red-contrib-mdashboard": "0.1.17",
+        "node-red-contrib-bigtimer": "2.2.3",
+        "node-red-node-ping": "0.0.15",
+        "node-red-contrib-alexa-home": "1.2.0"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flows_raspberrypi.json",
