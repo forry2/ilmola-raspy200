@@ -13,7 +13,8 @@
         "node-red-contrib-mdashboard": "0.1.17",
         "node-red-contrib-bigtimer": "2.2.3",
         "node-red-node-ping": "0.0.15",
-        "node-red-contrib-alexa-home": "1.2.0"
+        "node-red-contrib-alexa-home": "1.2.0",
+        "node-red-contrib-alexa-home-skill": "0.1.17"
     },
     "node-red": {
         "settings": {
